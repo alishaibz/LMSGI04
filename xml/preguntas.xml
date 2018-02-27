@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+
+<questions>
+    <question id="q001">
+	<type>text</type>
+	<title>Les dues parts més importants d'una casa pagesa eivissenca són el porxo i la...</title>
+	<answer>cuina</answer>
+    </question>
+    <question id="q002">
+	<type>radio</type>
+	<title>Quina era la preferència per escollir l'hereu-eva del patrimoni d'una família eivissenca?</title>
+	<option>Primer fill</option>
+	<option>Primera filla</option>
+	<option>Tots els fills</option>
+	<option>Segon fill</option>
+	<answer>0</answer>
+    </question>
+    <question id="q003">
+	<type>checkbox</type>
+	<title>Quins són els licors estomacals típics d'Eivissa?</title>
+	<option>Herbes</option>
+	<option>Patxaran</option>
+	<option>Frígola</option>
+	<option>Anís</option>
+	<answer>0</answer>
+	<answer>2</answer>
+    </question>
+    <question id="q004">
+	<type>radio</type>
+	<title>Quins són els ingredients de la Salsa de Nadal típica d'Eivissa?</title>
+	<option>Ametlles, ous, sucre, sal, pebre, clau, totespècia, canyella i safrà.</option>
+	<option>Caldo de carn, ametlles, ous, sucre, sal, pebre, clau, totespècia, canyella i safrà.</option>
+	<option>Aigua, ametlles, ous, sucre, sal, pebre, clau, totespècia i canyella.</option>
+	<option>Aigua, ametlles, ous, sucre i canyella.</option>
+	<answer>1</answer>
+    </question>
+    <question id="q005">
+	<type>text</type>
+	<title>Les dues modalitats del ball pagès són la curta i la...</title>
+	<answer>llarga</answer>
+    </question>
+    <question id="q006">
+	<type>checkbox</type>
+	<title>Amb quins instruments s'acompanya al ball pagès?</title>
+	<option>Tambor</option>
+	<option>Guitarró</option>
+	<option>Flauta</option>
+	<option>Castanyoles</option>
+	<answer>0</answer>
+	<answer>2</answer>
+	<answer>3</answer>
+    </question>
+    <question id="q007">
+	<type>select</type>
+	<title>Quin significat té l'expressió popular "Estar escafit"?</title>
+	<option>Estar malalt</option>
+	<option>No tenir diners</option>
+	<option>Estar molt prim</option>
+	<option>Estar de mal humor</option>
+	<answer>2</answer>
+    </question>
+    <question id="q008">
+	<type>multiple</type>
+	<title>Quines expressions populars signifiquen "Anar de festa"?</title>
+	<option>Anar-se'n de currinxa</option>
+	<option>Anar de cumares</option>
+	<option>Anar a custura</option>
+	<option>Anar de palanca</option>
+	<answer>0</answer>
+	<answer>3</answer>
+    </question>
+    <question id="q009">
+	<type>checkbox</type>
+	<title>Quines expressions populars signifiquen "Donar una galtada"?</title>
+	<option>Donar una xereca</option>
+	<option>Donar un bot</option>
+	<option>Donar una neula</option>
+	<option>Donar un xiflet</option>
+	<answer>0</answer>
+	<answer>2</answer>
+	<answer>3</answer>
+    </question>
+    <question id="q010">
+	<type>select</type>
+	<title>Quin significat té l'expressió popular "Fer salera"?</title>
+	<option>Treballar a ses Salines</option>
+	<option>Faltar a classe voluntàriament</option>
+	<option>Fer por</option>
+	<option>Fer pudor</option>
+	<answer>1</answer>
+    </question>
+</questions>
