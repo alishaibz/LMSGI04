@@ -1,3 +1,9 @@
+<meta property="og:site_name" content="Examen amb autocorrecció" />
+<meta property="og:url" content="https://github.com/alishaibz/LMSGI04/blob/master/index.html" />
+<meta property="og:title" content="Universitat d'Eivissa i Formentera" />
+<meta property="og:image" content="https://github.com/alishaibz/LMSGI04/blob/master/img/logo1.png" />
+<meta property="og:description" content="Examen Unitat 02: Eivissa Popular" />
+
 ## Projecte LMSGI04: Creació d'un examen amb autocorrecció
 
 ### Autora: Alicia Victoria López González
