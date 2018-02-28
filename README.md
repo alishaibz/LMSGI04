@@ -72,28 +72,24 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **30.** Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
-**31.** Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**](https://github.com/alishaibz/Lunar-Lander-Javascript).
+**31.** Creació d'un nou repositori a Github, [**LMSGI04**](https://github.com/alishaibz/LMSGI04).
     
-**32.**Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
+**32.** Pujada dels arxius corresponents a la tasca (directoris "css", "img", "js", "json" i "xml", i fitxer .html) al nou repositori, **LMSGI04**.
 
-**33.** Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Lander-Javascript/master/index.html).
+**33.** Obtenció de URL de Rawgit del projecte LMSGI04: [https://rawgit.com/alishaibz/LMSGI04/master/index.html](https://rawgit.com/alishaibz/LMSGI04/master/index.html).
 
 **34.** Creació del branch [mini](https://github.com/alishaibz/Lunar-Lander-Javascript/tree/mini) al repositori creat anteriorment.
 
 **35.** Eliminació dels arxius del branch mini que no es troben minimificats
 
-**36.** Pujada dels arxius corresponents a la versió minimificada del projecte al branch mini.
+**36.** Pujada dels arxius corresponents a la versió minimificada del projecte LMSGI04 al branch mini.
 
-**37.** Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
+**37.** Edició del fitxer README.me del repositori **LMSGI04**.
 
-### Modificacions de les tasques encomanades a desenvolupar:
-* No existeix botó Power.
+### Requeriments del projecte LMSGI04 no aconseguits:
+* En compartir la pàgina de rawgit del projecte al Facebook no apareix
 * S'han establert tres nivells de dificultat, els quals fan variar la quantitat de combustible de la nau i la velocitat llindar d'aterratge.
 * Al aterrar la nau a la Lluna, el joc finalitza (guanyant o perdent) i apareix una finestra amb un enllaç al final (Volver a jugar), que permet reiniciar el joc.
 * S'ha establert la variable pausa al codi Javascript que permet que mentre que el joc estigui en pausa no es pugui accionar la nau ni fent click en la pantalla ni prement cap tecla.
 
-### Fonts web d'informació consultades:
-* Recursos CSS: [http://www.araudi.net/](http://www.araudi.net/).
-* Table cell and vertical align: [http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php](http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php).
-* MinMaxing: [https://www.imaginanet.com/blog/minmaxing-aprendiendo-vmin-y-vmax-en-css.html](https://www.imaginanet.com/blog/minmaxing-aprendiendo-vmin-y-vmax-en-css.html).
-* El atributo HREF vacío: [http://vagabundia.blogspot.com/2007/06/el-atributo-href-vaco.html](http://vagabundia.blogspot.com/2007/06/el-atributo-href-vaco.html).
+
