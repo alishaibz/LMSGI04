@@ -58,7 +58,7 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **22.** Modificació de la codificació dels fitxers index.html, questions.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/)) per a intentar complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
-**23.** Comprobació del funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla. Es detecta que la visualització en dispositius mòbils no es correcta del tot.
+**23.** Comprobació del funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla desde l'ordinador i un dispositiu mòbil.
 
 **24.** Validació del fitxer .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu (només warnings referents als títols de tipus h3 que s'han deixat buits per carregar les dades des de l'arxiu XML).
 
@@ -90,7 +90,6 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 ### Requeriments del projecte LMSGI04 no aconseguits:
 * En compartir la pàgina de rawgit del projecte al Facebook ha d'aparèixer el títol, la descripció i el logo de la universitat. He inclòs les etiquetes de Meta dades corresponents al fitxer index.html però en insertar la url de rawgit al [depurador de Facebook](https://developers.facebook.com/tools/debug/) he obtingut dades referents a Github i no les dades que havia posat a les etiquetes de Meta dades.
-* Presentació, adaptació i facilitat de realització de la prova desde dispositius mòbils. En comprobar la presentació i el funcionament de l'aplicació canviant la mida del navegador web a l'ordinador, aquesta funciona correctament però en obrir-la al meu mòbil no he aconseguit el mateix resultat.
 * Validació XML amb DTD i XSD. Per falta de temps no he pogut passar el fitxer XML a DTD ni XSD.
 
 
