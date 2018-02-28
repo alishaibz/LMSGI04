@@ -2,7 +2,9 @@
 
 ### Autora: Alicia Victoria López González
 
+
 Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** s'ha portat a terme el següent procés general: 
+
 
 **1.** Establiment del tema respecte al qual es faran les 10 preguntes de l'examen: l'Eivissa popular.
    
