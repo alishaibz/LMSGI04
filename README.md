@@ -7,19 +7,19 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 **1.** Establiment del tema respecte al qual es faran les 10 preguntes de l'examen: l'Eivissa popular.
    
 **2.** Recerca d'informació per poder elaborar les 10 preguntes. Per això, s'ha extret informació de les següents pàgines web:
-   * Enciclopèdia d'Eivissa i Formentera: [http://www.eeif.es/](http://www.eeif.es/).
-   * Paraules nostres: [https://sites.google.com/site/paraulesnostres/](https://sites.google.com/site/paraulesnostres/).
-   * Diccionario de palabras ibicencas: [http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html](http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html).
+      * Enciclopèdia d'Eivissa i Formentera: [http://www.eeif.es/](http://www.eeif.es/).
+      * Paraules nostres: [https://sites.google.com/site/paraulesnostres/](https://sites.google.com/site/paraulesnostres/).
+      * Diccionario de palabras ibicencas: [http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html](http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html).
 
 **3.** Invenció de la Universitat d'Evissa i Formentera (UEF).
 
 **4.** Creació d'un logo per a la UEF des de la web [https://es.onlinelogomaker.com/](https://es.onlinelogomaker.com/).
 
 **5.** Modificació del logo creat anteriorment amb Photoshop, de manera que es que s'obtenen dues modalitats del logo inicial:
-   * Logo 1:
+      * Logo 1:
 <img src="/img/logo1.png">
 
-   * Logo 2:
+      * Logo 2:
 <img src="/img/logo2.png">
 
 **6.** Optimització dels logos a la pàgina web [tinypng.com](https://tinypng.com/).
