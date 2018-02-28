@@ -1,2 +1,78 @@
-# LMSGI04
-Examen amb autocorrecció
+## Projecte LMSGI04: Creació d'un examen amb autocorrecció
+
+### Autora: Alicia Victoria López González
+
+Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** s'ha portat a terme el següent procés general: 
+
+1. Establiment del tema respecte al qual es faran les 10 preguntes de l'examen: l'Eivissa popular.
+
+2. Recerca d'informació per poder elaborar les 10 preguntes. Per això, s'ha extret informació de les següents pàgines web:
+* Enciclopèdia d'Eivissa i Formentera: [http://www.eeif.es/](http://www.eeif.es/).
+* Paraules nostres: [https://sites.google.com/site/paraulesnostres/](https://sites.google.com/site/paraulesnostres/).
+* Diccionario de palabras ibicencas: [http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html](http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html).
+
+Entrada al repositori donat pel professor: [https://github.com/urbinapro/lunar-landing-javascript](https://github.com/urbinapro/lunar-landing-javascript).
+
+2. Lectura del fitxer README del repositori indicat anteriorment.
+
+3. Descàrrega i enteniment del repositori donat pel professor.
+
+4. Emprant l'estructura del repositori descarregat, modificació del fitxers existents (index.html, js.js, m.css i d.css) segons la codificació del meu projecte anterior (Lunar Lander amb HTML i CSS).
+
+5. Addició d'altres fitxers necessaris per al meu projecte (acerca.html i instrucciones.html) al directori arrel.
+
+6. Creació del directori "img" dins del directori arrel.
+
+7. Addició de les imatges del meu anterior projecte al directori "img" creat anteriorment.
+
+8. Recerca de la imatge necessària per al nou projecte (imatge d'explosió) a [pixabay.com](https://pixabay.com/).
+
+9. Emmagatzematge de la nova imatge (boom.png) al directori "img".
+
+10. Modificació de la imatge de la nau (nave.png) a l'[editor PIXLR](https://pixlr.com/editor/). S'esborra el foc del motor i, així, es creen dues noves imatges: nave_on.png (amb el motor encès) i nave_off.png (amb el motor apagat).
+
+11. Optimització de totes les imatges a la pàgina web [tinypng.com](https://tinypng.com/).
+
+12. Modificació de la codificació dels fitxers index.html, acerca.html, instrucciones.html, js.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
+
+13. Verificació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla.
+
+14. Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+
+15. Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+
+16. Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu.
+
+17. Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació dels corresponents fitxers .html optimitzats.
+
+18. Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
+
+19. Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+
+20. Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+
+21. Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**](https://github.com/alishaibz/Lunar-Lander-Javascript).
+    
+22. Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
+
+23. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Lander-Javascript/master/index.html).
+
+24. Creació del branch [mini](https://github.com/alishaibz/Lunar-Lander-Javascript/tree/mini) al repositori creat anteriorment.
+
+25. Eliminació dels arxius del branch mini que no es troben minimificats
+
+26. Pujada dels arxius corresponents a la versió minimificada del projecte al branch mini.
+
+27. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
+
+### Modificacions de les tasques encomanades a desenvolupar:
+* No existeix botó Power.
+* S'han establert tres nivells de dificultat, els quals fan variar la quantitat de combustible de la nau i la velocitat llindar d'aterratge.
+* Al aterrar la nau a la Lluna, el joc finalitza (guanyant o perdent) i apareix una finestra amb un enllaç al final (Volver a jugar), que permet reiniciar el joc.
+* S'ha establert la variable pausa al codi Javascript que permet que mentre que el joc estigui en pausa no es pugui accionar la nau ni fent click en la pantalla ni prement cap tecla.
+
+### Fonts web d'informació consultades:
+* Recursos CSS: [http://www.araudi.net/](http://www.araudi.net/).
+* Table cell and vertical align: [http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php](http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php).
+* MinMaxing: [https://www.imaginanet.com/blog/minmaxing-aprendiendo-vmin-y-vmax-en-css.html](https://www.imaginanet.com/blog/minmaxing-aprendiendo-vmin-y-vmax-en-css.html).
+* El atributo HREF vacío: [http://vagabundia.blogspot.com/2007/06/el-atributo-href-vaco.html](http://vagabundia.blogspot.com/2007/06/el-atributo-href-vaco.html).
