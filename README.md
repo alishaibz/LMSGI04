@@ -58,7 +58,7 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **22.** Modificació de la codificació dels fitxers index.html, questions.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/)) per a intentar complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
-**23.** Comprobació del funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla desde l'ordinador i un dispositiu mòbil.
+**23.** Comprobació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla des d'un ordinador i un dispositiu mòbil.
 
 **24.** Validació del fitxer .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu (només warnings referents als títols de tipus h3 que s'han deixat buits per carregar les dades des de l'arxiu XML).
 
