@@ -1,9 +1,3 @@
-<meta property="og:site_name" content="Examen amb autocorrecció" />
-<meta property="og:url" content="https://github.com/alishaibz/LMSGI04/blob/master/index.html" />
-<meta property="og:title" content="Universitat d'Eivissa i Formentera" />
-<meta property="og:image" content="https://github.com/alishaibz/LMSGI04/blob/master/img/logo1.png" />
-<meta property="og:description" content="Examen Unitat 02: Eivissa Popular" />
-
 ## Projecte LMSGI04: Creació d'un examen amb autocorrecció
 
 ### Autora: Alicia Victoria López González
@@ -60,21 +54,21 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **21.** Creació del fitxer **questions.js** dins del subdirectori "js", en el qual s'implementa el codi Javascript necessari per donar una correcció automatitzada a l'examen.
 
-**22.** Modificació de la codificació dels fitxers index.html, questions.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per a intentar complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
+**22.** Modificació de la codificació dels fitxers index.html, questions.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/)) per a intentar complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
 **23.** Comprobació del funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla. Es detecta que la visualització en dispositius mòbils no es correcta del tot.
 
-**24.** Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+**24.** Validació del fitxer .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu (només warnings referents als títols de tipus h3 que s'han deixat buits per carregar les dades des de l'arxiu XML).
 
 **25.** Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
-**26.** Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu.
+**26.** Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu (només warnings referents a variables declarades diverses vegades ja que s'empren dins de diferents funcions).
 
-**27.** Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació del corresponent fitxer .html optimitzat.
+**27.** Optimització del codi del fitxer .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació del corresponent fitxer .html optimitzat.
 
 **28.** Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
 
-**29.** Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+**29.** Validació del fitxer .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
 
 **30.** Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
@@ -93,9 +87,9 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 **37.** Edició del fitxer README.me del repositori **LMSGI04**.
 
 ### Requeriments del projecte LMSGI04 no aconseguits:
-* En compartir la pàgina de rawgit del projecte al Facebook no apareix
-* S'han establert tres nivells de dificultat, els quals fan variar la quantitat de combustible de la nau i la velocitat llindar d'aterratge.
-* Al aterrar la nau a la Lluna, el joc finalitza (guanyant o perdent) i apareix una finestra amb un enllaç al final (Volver a jugar), que permet reiniciar el joc.
-* S'ha establert la variable pausa al codi Javascript que permet que mentre que el joc estigui en pausa no es pugui accionar la nau ni fent click en la pantalla ni prement cap tecla.
+* En compartir la pàgina de rawgit del projecte al Facebook ha d'aparèixer el títol, la descripció i el logo de la universitat. He inclòs les etiquetes de Meta dades corresponents al fitxer index.html però en insertar la url de rawgit al [depurador de Facebook](https://developers.facebook.com/tools/debug/) he obtingut dades referents a Github i no les dades que havia posat a les etiquetes de Meta dades.
+* Presentació, adaptació i facilitat de realització de la prova desde dispositius mòbils. En comprobar la presentació i el funcionament de l'aplicació canviant la mida del navegador web a l'ordinador, aquesta funciona correctament però en obrir-la al meu mòbil no he aconseguit el mateix resultat.
+* Validació XML amb DTD i XSD. Per falta de temps no he pogut passar el fitxer XML a DTD ni XSD.
+
 
 
