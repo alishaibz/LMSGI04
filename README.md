@@ -7,9 +7,9 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 1. Establiment del tema respecte al qual es faran les 10 preguntes de l'examen: l'Eivissa popular.
 
 2. Recerca d'informació per poder elaborar les 10 preguntes. Per això, s'ha extret informació de les següents pàgines web:
-* Enciclopèdia d'Eivissa i Formentera: [http://www.eeif.es/](http://www.eeif.es/).
-* Paraules nostres: [https://sites.google.com/site/paraulesnostres/](https://sites.google.com/site/paraulesnostres/).
-* Diccionario de palabras ibicencas: [http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html](http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html).
+    * Enciclopèdia d'Eivissa i Formentera: [http://www.eeif.es/](http://www.eeif.es/).
+    * Paraules nostres: [https://sites.google.com/site/paraulesnostres/](https://sites.google.com/site/paraulesnostres/).
+    * Diccionario de palabras ibicencas: [http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html](http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html).
 
 Entrada al repositori donat pel professor: [https://github.com/urbinapro/lunar-landing-javascript](https://github.com/urbinapro/lunar-landing-javascript).
 
