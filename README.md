@@ -17,9 +17,12 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 5. Modificació del logo creat anteriorment amb Photoshop, de manera que es que s'obtenen dues modalitats del logo inicial:
     * Logo 1:
-![Logo1](/img/logo1.png)
+
+<center>![Logo1](/img/logo1.png)</center>
+    
     * Logo 2:
-![Logo2](/img/logo2.png)
+    
+<center>![Logo2](/img/logo2.png)</center>
 
 6. Optimització dels logos a la pàgina web [tinypng.com](https://tinypng.com/).
 
