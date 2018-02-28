@@ -10,6 +10,15 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
     * Enciclopèdia d'Eivissa i Formentera: [http://www.eeif.es/](http://www.eeif.es/).
     * Paraules nostres: [https://sites.google.com/site/paraulesnostres/](https://sites.google.com/site/paraulesnostres/).
     * Diccionario de palabras ibicencas: [http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html](http://www.ibizaisla.es/blog/diccionario-de-palabras-ibicencas.html).
+    
+3. Invenció de la Universitat d'Evissa i Formentera (UEF).
+
+4. Creació d'un logo per a la UEF des de la web [https://es.onlinelogomaker.com/](https://es.onlinelogomaker.com/).
+
+5. Modificació del logo creat anteriorment amb Photoshop, de manera que es que s'obtenen dues modalitats del logo inicial:
+![Logo1](/img/logo1.png)
+Format: ![Alt Text](url)
+
 
 Entrada al repositori donat pel professor: [https://github.com/urbinapro/lunar-landing-javascript](https://github.com/urbinapro/lunar-landing-javascript).
 
