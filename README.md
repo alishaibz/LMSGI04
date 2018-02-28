@@ -30,46 +30,61 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **9.** Consulta del repositori exemple donat pel professor: [https://github.com/urbinapro/jsxml](https://github.com/urbinapro/jsxml).
 
-**10.** Creació del fitxer index.html al directori arrel, en el qual s'implementa la part HTML corresponent de l'examen amb autocorrecció.
+**10.** Creació del fitxer **index.html** al directori arrel, en el qual s'implementa la part HTML corresponent de l'examen amb autocorrecció.
 
 **11.** Creació del directori "css" dins del directori arrel de treball.
 
-**12.** Creació del fitxer d.css al subdirectori "css", en el qual s'implementa 
+**12.** Creació del fitxer **d.css** al subdirectori "css", en el qual s'implementa la codificació CSS corresponent per a donar un estil a la meva aplicació quan aquesta es mostra en dispositius de pantalla gran, com són els ordinadors.
 
+**13.** Creació del fitxer **m.css** al subdirectori "css", en el qual s'implementa la codificació CSS corresponent per a donar un estil a la meva aplicació quan aquesta es mostra en dispositius de pantalla petita, com són els mòbils.
 
+**14.** Creació del directori "xml" dins del directori arrel de treball.
 
+**15.** Creació del fitxer **preguntas.xml** al subdirectori "xml", en el qual s'estructura les dades de les preguntes de l'examen (type, title, option, answer).
 
-12. Modificació de la codificació dels fitxers index.html, acerca.html, instrucciones.html, js.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
+**16.** Modificació del fitxer **index.html** eliminant les dades de les preguntes de l'examen que s'han inclòs al fitxer **preguntas.xml** editat anteriorment.
 
-13. Verificació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla.
+**17.** Creació del directori "json" dins del directori arrel de treball.
 
-14. Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+**18.** Conversió del codi del fitxer **preguntas.xml** a codi JSON mitjançant el [conversor de XML a JSON de Code Beautify](https://codebeautify.org/xmltojson).
 
-15. Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+**19.** Creació del fitxer **preguntas.json** dins del subdirectori "json" amb el codi obtingut mitjançant el conversor de XML a JSON.
 
-16. Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu.
+**20.** Creació del directori "js" dins del directori arrel de treball.
 
-17. Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació dels corresponents fitxers .html optimitzats.
+**21.** Creació del fitxer **questions.js** dins del subdirectori "js", en el qual s'implementa el codi Javascript necessari per donar una correcció automatitzada a l'examen.
 
-18. Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
+**22.** Modificació de la codificació dels fitxers index.html, questions.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per a intentar complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
-19. Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+**23.** Comprobació del funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla. Es detecta que la visualització en dispositius mòbils no es correcta del tot.
 
-20. Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+**24.** Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
 
-21. Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**](https://github.com/alishaibz/Lunar-Lander-Javascript).
+**25.** Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+
+**26.** Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu.
+
+**27.** Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació del corresponent fitxer .html optimitzat.
+
+**28.** Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
+
+**29.** Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+
+**30.** Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+
+**31.** Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**](https://github.com/alishaibz/Lunar-Lander-Javascript).
     
-22. Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
+**32.**Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
 
-23. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Lander-Javascript/master/index.html).
+**33.** Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Lander-Javascript/master/index.html).
 
-24. Creació del branch [mini](https://github.com/alishaibz/Lunar-Lander-Javascript/tree/mini) al repositori creat anteriorment.
+**34.** Creació del branch [mini](https://github.com/alishaibz/Lunar-Lander-Javascript/tree/mini) al repositori creat anteriorment.
 
-25. Eliminació dels arxius del branch mini que no es troben minimificats
+**35.** Eliminació dels arxius del branch mini que no es troben minimificats
 
-26. Pujada dels arxius corresponents a la versió minimificada del projecte al branch mini.
+**36.** Pujada dels arxius corresponents a la versió minimificada del projecte al branch mini.
 
-27. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
+**37.** Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
 
 ### Modificacions de les tasques encomanades a desenvolupar:
 * No existeix botó Power.
