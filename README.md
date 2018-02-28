@@ -24,29 +24,20 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **6.** Optimització dels logos a la pàgina web [tinypng.com](https://tinypng.com/).
 
+**7.** Creació del directori "img" dins del directori arrel de treball.
+
+**8.** Emmagatzematge de les imatges del logo al directori "img".
+
+**9.** Consulta del repositori exemple donat pel professor: [https://github.com/urbinapro/jsxml](https://github.com/urbinapro/jsxml).
+
+**10.** Creació del fitxer index.html al directori arrel, en el qual s'implementa la part HTML corresponent de l'examen amb autocorrecció.
+
+**11.** Creació del directori "css" dins del directori arrel de treball.
+
+**12.** Creació del fitxer d.css al subdirectori "css", en el qual s'implementa 
 
 
-Entrada al repositori donat pel professor: [https://github.com/urbinapro/lunar-landing-javascript](https://github.com/urbinapro/lunar-landing-javascript).
 
-2. Lectura del fitxer README del repositori indicat anteriorment.
-
-3. Descàrrega i enteniment del repositori donat pel professor.
-
-4. Emprant l'estructura del repositori descarregat, modificació del fitxers existents (index.html, js.js, m.css i d.css) segons la codificació del meu projecte anterior (Lunar Lander amb HTML i CSS).
-
-5. Addició d'altres fitxers necessaris per al meu projecte (acerca.html i instrucciones.html) al directori arrel.
-
-6. Creació del directori "img" dins del directori arrel.
-
-7. Addició de les imatges del meu anterior projecte al directori "img" creat anteriorment.
-
-8. Recerca de la imatge necessària per al nou projecte (imatge d'explosió) a [pixabay.com](https://pixabay.com/).
-
-9. Emmagatzematge de la nova imatge (boom.png) al directori "img".
-
-10. Modificació de la imatge de la nau (nave.png) a l'[editor PIXLR](https://pixlr.com/editor/). S'esborra el foc del motor i, així, es creen dues noves imatges: nave_on.png (amb el motor encès) i nave_off.png (amb el motor apagat).
-
-11. Optimització de totes les imatges a la pàgina web [tinypng.com](https://tinypng.com/).
 
 12. Modificació de la codificació dels fitxers index.html, acerca.html, instrucciones.html, js.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
