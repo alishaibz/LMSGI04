@@ -15,13 +15,13 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 
 **4.** Creació d'un logo per a la UEF des de la web [https://es.onlinelogomaker.com/](https://es.onlinelogomaker.com/).
 
-5. Modificació del logo creat anteriorment amb Photoshop, de manera que es que s'obtenen dues modalitats del logo inicial:
+**5.** Modificació del logo creat anteriorment amb Photoshop, de manera que es que s'obtenen dues modalitats del logo inicial:
     * Logo 1:
 <img src="/img/logo1.png">
     * Logo 2:
 <img src="/img/logo2.png">
 
-6. Optimització dels logos a la pàgina web [tinypng.com](https://tinypng.com/).
+**6.** Optimització dels logos a la pàgina web [tinypng.com](https://tinypng.com/).
 
 
 
