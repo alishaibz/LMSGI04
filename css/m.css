@@ -20,9 +20,9 @@ legend{font-weight: bold;}
 #corregir{display:block;margin-left: auto;margin-right: auto;font-size:5vw;}
 
 /* Aspecto para el DIV que contiene instrucciones */
-#instruccionsDiv{background-color: #ebebe0;position: fixed;top: 2.5%;left: 2.5%;height: 95%;width: 95%;display: none;z-index: 20;border-radius: 25px;border-style: outset;text-align: center;vertical-align: middle;font-size:3vm;}
+#instruccionsDiv{background-color: #ebebe0;position: fixed;top: 2.5%;left: 2.5%;height: 95%;width: 95%;display: none;z-index: 20;border-radius: 25px;border-style: outset;text-align: center;vertical-align: middle;font-size:1vm;}
 .texto{display: table-cell;vertical-align: middle;}
-#instruccions,#iniciar{font-size:2vm;}
+#instruccions,#iniciar{font-size:1vm;}
 
 /* Aspecto para el DIV que contiene resultados */
 #resultatsDiv{background-color: #808080;position: fixed;top: 2.5%;left: 2.5%;height: 95%;width: 95%;padding-top: 2%;padding-bottom: 2%;display: none;z-index: 20;border-radius: 25px;border-style: outset;filter: opacity(95%);text-align: center;vertical-align: middle;font-size: 2vh;}
