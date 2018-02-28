@@ -1,0 +1,130 @@
+{
+	"questions": {
+		"question": [
+			{
+				"type": "text",
+				"title": "Les dues parts més importants d'una casa pagesa eivissenca són el porxo i la...",
+				"answer": "cuina",
+				"_id": "q01"
+			},
+			{
+				"type": "radio",
+				"title": "Quina era la preferència per escollir l'hereu-eva del patrimoni d'una família eivissenca?",
+				"option": [
+					"Primer fill",
+					"Primera filla",
+					"Tots els fills",
+					"Segon fill"
+				],
+				"answer": "a",
+				"_id": "q02"
+			},
+			{
+				"type": "checkbox",
+				"title": "Quins són els licors estomacals típics d'Eivissa?",
+				"option": [
+					"Herbes",
+					"Patxaran",
+					"Frígola",
+					"Anís"
+				],
+				"answer": [
+					"a",
+					"c"
+				],
+				"_id": "q03"
+			},
+			{
+				"type": "radio",
+				"title": "Quins són els ingredients de la Salsa de Nadal típica d'Eivissa?",
+				"option": [
+					"Ametlles, ous, sucre, sal, pebre, clau, totespècia, canyella i safrà.",
+					"Caldo de carn, ametlles, ous, sucre, sal, pebre, clau, totespècia, canyella i safrà.",
+					"Aigua, ametlles, ous, sucre, sal, pebre, clau, totespècia i canyella.",
+					"Aigua, ametlles, ous, sucre i canyella."
+				],
+				"answer": "b",
+				"_id": "q04"
+			},
+			{
+				"type": "text",
+				"title": "Les dues modalitats del ball pagès són la curta i la...",
+				"answer": "llarga",
+				"_id": "q05"
+			},
+			{
+				"type": "checkbox",
+				"title": "Amb quins instruments s'acompanya al ball pagès?",
+				"option": [
+					"Tambor",
+					"Guitarró",
+					"Flauta",
+					"Castanyoles"
+				],
+				"answer": [
+					"a",
+					"c",
+					"d"
+				],
+				"_id": "q06"
+			},
+			{
+				"type": "select",
+				"title": "Quin significat té l'expressió popular \"Estar escafit\"?",
+				"option": [
+					"Selecciona una opció...",
+					"Estar malalt",
+					"No tenir diners",
+					"Estar molt prim",
+					"Estar de mal humor"
+				],
+				"answer": "2",
+				"_id": "q07"
+			},
+			{
+				"type": "select_multiple",
+				"title": "Quines expressions populars signifiquen \"Anar de festa\"?",
+				"option": [
+					"Anar-se'n de currinxa",
+					"Anar de cumares",
+					"Anar a custura",
+					"Anar de palanca"
+				],
+				"answer": [
+					"1",
+					"4"
+				],
+				"_id": "q08"
+			},
+			{
+				"type": "checkbox",
+				"title": "Quines expressions populars signifiquen \"Donar una galtada\"?",
+				"option": [
+					"Donar una xereca",
+					"Donar un bot",
+					"Donar una neula",
+					"Donar un xiflet"
+				],
+				"answer": [
+					"a",
+					"c",
+					"d"
+				],
+				"_id": "q09"
+			},
+			{
+				"type": "select",
+				"title": "Quin significat té l'expressió popular \"Fer salera\"?",
+				"option": [
+					"Selecciona una opció...",
+					"Treballar a ses Salines",
+					"Faltar a classe voluntàriament",
+					"Fer por",
+					"Fer pudor"
+				],
+				"answer": "1",
+				"_id": "q10"
+			}
+		]
+	}
+}
