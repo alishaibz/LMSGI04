@@ -91,7 +91,7 @@ Per a la realització del projecte LMSGI04 de l'assignatura **_Llenguatge de Mar
 ### Requeriments del projecte LMSGI04 no aconseguits:
 * En compartir la pàgina de rawgit del projecte al Facebook ha d'aparèixer el títol, la descripció i el logo de la universitat. He inclòs les etiquetes de Meta dades corresponents al fitxer index.html però en insertar la url de rawgit al [depurador de Facebook](https://developers.facebook.com/tools/debug/) he obtingut dades referents a Github i no les dades que havia posat a les etiquetes de Meta dades. Nota: Fora de temps, he aconseguit aquest requeriment configurant correctament les etiquetes de Meta dades en el codi HTML. S'adjunta imatge a continuació.
 
-<img src="/img/DepuradorFacebook.jpg">
+<img src="/img/DepuradorFacebook.JPG">
 
 * Validació XML amb DTD i XSD. Per falta de temps no he pogut passar el fitxer XML a DTD ni XSD.
 
